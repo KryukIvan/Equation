@@ -40,6 +40,8 @@ public class Equation {
                         System.out.print("Вывод: " + r);
                     }
                     break;
+                default:
+                    System.out.print("Где-то ошибка");
             }
         }
 
